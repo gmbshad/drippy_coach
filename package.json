@@ -1,0 +1,32 @@
+{
+  "name": "@gmbshad/drippy_coach",
+  "version": "1.0.0",
+  "description": "4A tool for basketball coaches specifically with the DRIP Nation youth Basketball club",
+  "main": "alert(\"Hello, World!\");",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmbshad/drippy_coach.git"
+  },
+  "keywords": [
+    "drip",
+    "nation",
+    "drippy",
+    "coach",
+    "coach",
+    "app",
+    "coaching",
+    "tool"
+  ],
+  "author": "Rashad Lovett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmbshad/drippy_coach/issues"
+  },
+  "homepage": "https://github.com/gmbshad/drippy_coach#readme"
+}
